@@ -1,0 +1,17 @@
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Datos\bin\Debug\net8.0\CLNFactPT.Datos.deps.json
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Datos\bin\Debug\net8.0\CLNFactPT.Datos.runtimeconfig.json
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Datos\bin\Debug\net8.0\CLNFactPT.Datos.dll
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Datos\bin\Debug\net8.0\CLNFactPT.Datos.pdb
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Datos\obj\Debug\net8.0\CLNFactPT.Datos.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Datos\obj\Debug\net8.0\CLNFactPT.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Datos\obj\Debug\net8.0\CLNFactPT.Datos.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Datos\obj\Debug\net8.0\CLNFactPT.Datos.AssemblyInfo.cs
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Datos\obj\Debug\net8.0\CLNFactPT.Datos.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Datos\obj\Debug\net8.0\CLNFactPT.Datos.dll
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Datos\obj\Debug\net8.0\refint\CLNFactPT.Datos.dll
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Datos\obj\Debug\net8.0\CLNFactPT.Datos.pdb
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Datos\obj\Debug\net8.0\CLNFactPT.Datos.genruntimeconfig.cache
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Datos\obj\Debug\net8.0\ref\CLNFactPT.Datos.dll
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Datos\bin\Debug\net8.0\CLNFactPT.Dominio.dll
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Datos\bin\Debug\net8.0\CLNFactPT.Dominio.pdb
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Datos\obj\Debug\net8.0\CLNFactP.A4FE14B9.Up2Date

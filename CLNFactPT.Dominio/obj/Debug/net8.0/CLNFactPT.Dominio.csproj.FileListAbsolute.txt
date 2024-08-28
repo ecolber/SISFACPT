@@ -1,0 +1,13 @@
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Dominio\bin\Debug\net8.0\CLNFactPT.Dominio.deps.json
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Dominio\bin\Debug\net8.0\CLNFactPT.Dominio.dll
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Dominio\bin\Debug\net8.0\CLNFactPT.Dominio.pdb
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Dominio\obj\Debug\net8.0\CLNFactPT.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Dominio\obj\Debug\net8.0\CLNFactPT.Dominio.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Dominio\obj\Debug\net8.0\CLNFactPT.Dominio.AssemblyInfo.cs
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Dominio\obj\Debug\net8.0\CLNFactPT.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Dominio\obj\Debug\net8.0\CLNFactPT.Dominio.dll
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Dominio\obj\Debug\net8.0\refint\CLNFactPT.Dominio.dll
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Dominio\obj\Debug\net8.0\CLNFactPT.Dominio.pdb
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Dominio\obj\Debug\net8.0\ref\CLNFactPT.Dominio.dll
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Dominio\bin\Debug\net8.0\CLNFactPT.Dominio.runtimeconfig.json
+C:\Users\erick\source\repos\CLNFactPT\CLNFactPT.Dominio\obj\Debug\net8.0\CLNFactPT.Dominio.genruntimeconfig.cache

@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75F4A7B2-086B-4DED-B83C-AC905903F205}|CLNFactPT.API\\CLNFactPT.API.csproj|c:\\users\\erick\\source\\repos\\clnfactpt\\clnfactpt.api\\controllers\\rptfacturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F4A7B2-086B-4DED-B83C-AC905903F205}|CLNFactPT.API\\CLNFactPT.API.csproj|solutionrelative:clnfactpt.api\\controllers\\rptfacturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BF5B067-35E7-48FB-BE39-7E941F1F0AB2}|CLNFactPT.Datos\\CLNFactPT.Datos.csproj|c:\\users\\erick\\source\\repos\\clnfactpt\\clnfactpt.datos\\repositorio\\facturadetallerepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BF5B067-35E7-48FB-BE39-7E941F1F0AB2}|CLNFactPT.Datos\\CLNFactPT.Datos.csproj|solutionrelative:clnfactpt.datos\\repositorio\\facturadetallerepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F4A7B2-086B-4DED-B83C-AC905903F205}|CLNFactPT.API\\CLNFactPT.API.csproj|c:\\users\\erick\\source\\repos\\clnfactpt\\clnfactpt.api\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F4A7B2-086B-4DED-B83C-AC905903F205}|CLNFactPT.API\\CLNFactPT.API.csproj|solutionrelative:clnfactpt.api\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F4A7B2-086B-4DED-B83C-AC905903F205}|CLNFactPT.API\\CLNFactPT.API.csproj|c:\\users\\erick\\source\\repos\\clnfactpt\\clnfactpt.api\\controllers\\facturadetallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F4A7B2-086B-4DED-B83C-AC905903F205}|CLNFactPT.API\\CLNFactPT.API.csproj|solutionrelative:clnfactpt.api\\controllers\\facturadetallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6BF5B067-35E7-48FB-BE39-7E941F1F0AB2}|CLNFactPT.Datos\\CLNFactPT.Datos.csproj|c:\\users\\erick\\source\\repos\\clnfactpt\\clnfactpt.datos\\repositorio\\rptfacturarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BF5B067-35E7-48FB-BE39-7E941F1F0AB2}|CLNFactPT.Datos\\CLNFactPT.Datos.csproj|solutionrelative:clnfactpt.datos\\repositorio\\rptfacturarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF5B067-35E7-48FB-BE39-7E941F1F0AB2}|CLNFactPT.Datos\\CLNFactPT.Datos.csproj|c:\\users\\erick\\source\\repos\\clnfactpt\\clnfactpt.datos\\repositorio\\unidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BF5B067-35E7-48FB-BE39-7E941F1F0AB2}|CLNFactPT.Datos\\CLNFactPT.Datos.csproj|solutionrelative:clnfactpt.datos\\repositorio\\unidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75F4A7B2-086B-4DED-B83C-AC905903F205}|CLNFactPT.API\\CLNFactPT.API.csproj|c:\\users\\erick\\source\\repos\\clnfactpt\\clnfactpt.api\\controllers\\rptfacturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F4A7B2-086B-4DED-B83C-AC905903F205}|CLNFactPT.API\\CLNFactPT.API.csproj|solutionrelative:clnfactpt.api\\controllers\\rptfacturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF5B067-35E7-48FB-BE39-7E941F1F0AB2}|CLNFactPT.Datos\\CLNFactPT.Datos.csproj|c:\\users\\erick\\source\\repos\\clnfactpt\\clnfactpt.datos\\dtos\\rptfacturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF5B067-35E7-48FB-BE39-7E941F1F0AB2}|CLNFactPT.Datos\\CLNFactPT.Datos.csproj|solutionrelative:clnfactpt.datos\\dtos\\rptfacturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF5B067-35E7-48FB-BE39-7E941F1F0AB2}|CLNFactPT.Datos\\CLNFactPT.Datos.csproj|c:\\users\\erick\\source\\repos\\clnfactpt\\clnfactpt.datos\\dtos\\facturamasterdetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF5B067-35E7-48FB-BE39-7E941F1F0AB2}|CLNFactPT.Datos\\CLNFactPT.Datos.csproj|solutionrelative:clnfactpt.datos\\dtos\\facturamasterdetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6BF5B067-35E7-48FB-BE39-7E941F1F0AB2}|CLNFactPT.Datos\\CLNFactPT.Datos.csproj|c:\\users\\erick\\source\\repos\\clnfactpt\\clnfactpt.datos\\repositorio\\irepositorio\\iunidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,28 +27,12 @@
       "RelativeMoniker": "D:0:0:{6BF5B067-35E7-48FB-BE39-7E941F1F0AB2}|CLNFactPT.Datos\\CLNFactPT.Datos.csproj|solutionrelative:clnfactpt.datos\\repositorio\\facturarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF5B067-35E7-48FB-BE39-7E941F1F0AB2}|CLNFactPT.Datos\\CLNFactPT.Datos.csproj|c:\\users\\erick\\source\\repos\\clnfactpt\\clnfactpt.datos\\dtos\\rptfacturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BF5B067-35E7-48FB-BE39-7E941F1F0AB2}|CLNFactPT.Datos\\CLNFactPT.Datos.csproj|solutionrelative:clnfactpt.datos\\dtos\\rptfacturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BF5B067-35E7-48FB-BE39-7E941F1F0AB2}|CLNFactPT.Datos\\CLNFactPT.Datos.csproj|c:\\users\\erick\\source\\repos\\clnfactpt\\clnfactpt.datos\\repositorio\\irepositorio\\irptfacturarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BF5B067-35E7-48FB-BE39-7E941F1F0AB2}|CLNFactPT.Datos\\CLNFactPT.Datos.csproj|solutionrelative:clnfactpt.datos\\repositorio\\irepositorio\\irptfacturarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6BF5B067-35E7-48FB-BE39-7E941F1F0AB2}|CLNFactPT.Datos\\CLNFactPT.Datos.csproj|c:\\users\\erick\\source\\repos\\clnfactpt\\clnfactpt.datos\\repositorio\\irepositorio\\ifacturarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BF5B067-35E7-48FB-BE39-7E941F1F0AB2}|CLNFactPT.Datos\\CLNFactPT.Datos.csproj|solutionrelative:clnfactpt.datos\\repositorio\\irepositorio\\ifacturarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{163B3E1C-47AC-47D5-AFAD-778A025C6846}|CLNFactPT.Dominio\\CLNFactPT.Dominio.csproj|c:\\users\\erick\\source\\repos\\clnfactpt\\clnfactpt.dominio\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{163B3E1C-47AC-47D5-AFAD-778A025C6846}|CLNFactPT.Dominio\\CLNFactPT.Dominio.csproj|solutionrelative:clnfactpt.dominio\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{163B3E1C-47AC-47D5-AFAD-778A025C6846}|CLNFactPT.Dominio\\CLNFactPT.Dominio.csproj|c:\\users\\erick\\source\\repos\\clnfactpt\\clnfactpt.dominio\\entidades\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{163B3E1C-47AC-47D5-AFAD-778A025C6846}|CLNFactPT.Dominio\\CLNFactPT.Dominio.csproj|solutionrelative:clnfactpt.dominio\\entidades\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BF5B067-35E7-48FB-BE39-7E941F1F0AB2}|CLNFactPT.Datos\\CLNFactPT.Datos.csproj|c:\\users\\erick\\source\\repos\\clnfactpt\\clnfactpt.datos\\dtos\\facturamasterdetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BF5B067-35E7-48FB-BE39-7E941F1F0AB2}|CLNFactPT.Datos\\CLNFactPT.Datos.csproj|solutionrelative:clnfactpt.datos\\dtos\\facturamasterdetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6BF5B067-35E7-48FB-BE39-7E941F1F0AB2}|CLNFactPT.Datos\\CLNFactPT.Datos.csproj|c:\\users\\erick\\source\\repos\\clnfactpt\\clnfactpt.datos\\dtos\\facturadetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,111 +62,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FacturaDetalleController.cs",
-              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.API\\Controllers\\FacturaDetalleController.cs",
-              "RelativeDocumentMoniker": "CLNFactPT.API\\Controllers\\FacturaDetalleController.cs",
-              "ToolTip": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.API\\Controllers\\FacturaDetalleController.cs",
-              "RelativeToolTip": "CLNFactPT.API\\Controllers\\FacturaDetalleController.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T02:11:53.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FacturaDetalleRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.Datos\\Repositorio\\FacturaDetalleRepositorio.cs",
-              "RelativeDocumentMoniker": "CLNFactPT.Datos\\Repositorio\\FacturaDetalleRepositorio.cs",
-              "ToolTip": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.Datos\\Repositorio\\FacturaDetalleRepositorio.cs",
-              "RelativeToolTip": "CLNFactPT.Datos\\Repositorio\\FacturaDetalleRepositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T02:11:44.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IUnidadTrabajo.cs",
-              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.Datos\\Repositorio\\IRepositorio\\IUnidadTrabajo.cs",
-              "RelativeDocumentMoniker": "CLNFactPT.Datos\\Repositorio\\IRepositorio\\IUnidadTrabajo.cs",
-              "ToolTip": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.Datos\\Repositorio\\IRepositorio\\IUnidadTrabajo.cs",
-              "RelativeToolTip": "CLNFactPT.Datos\\Repositorio\\IRepositorio\\IUnidadTrabajo.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABAAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T01:45:51.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "RptFacturaController.cs",
               "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.API\\Controllers\\RptFacturaController.cs",
               "RelativeDocumentMoniker": "CLNFactPT.API\\Controllers\\RptFacturaController.cs",
               "ToolTip": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.API\\Controllers\\RptFacturaController.cs",
               "RelativeToolTip": "CLNFactPT.API\\Controllers\\RptFacturaController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADYAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T01:44:52.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FacturaController.cs",
-              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.API\\Controllers\\FacturaController.cs",
-              "RelativeDocumentMoniker": "CLNFactPT.API\\Controllers\\FacturaController.cs",
-              "ToolTip": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.API\\Controllers\\FacturaController.cs",
-              "RelativeToolTip": "CLNFactPT.API\\Controllers\\FacturaController.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAAACUAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T22:05:03.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UnidadTrabajo.cs",
-              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.Datos\\Repositorio\\UnidadTrabajo.cs",
-              "RelativeDocumentMoniker": "CLNFactPT.Datos\\Repositorio\\UnidadTrabajo.cs",
-              "ToolTip": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.Datos\\Repositorio\\UnidadTrabajo.cs",
-              "RelativeToolTip": "CLNFactPT.Datos\\Repositorio\\UnidadTrabajo.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAABwAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T01:46:11.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "RptFacturaRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.Datos\\Repositorio\\RptFacturaRepositorio.cs",
               "RelativeDocumentMoniker": "CLNFactPT.Datos\\Repositorio\\RptFacturaRepositorio.cs",
               "ToolTip": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.Datos\\Repositorio\\RptFacturaRepositorio.cs",
               "RelativeToolTip": "CLNFactPT.Datos\\Repositorio\\RptFacturaRepositorio.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAAAC4AAACNAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAABtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T01:28:37.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IRptFacturaRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.Datos\\Repositorio\\IRepositorio\\IRptFacturaRepositorio.cs",
-              "RelativeDocumentMoniker": "CLNFactPT.Datos\\Repositorio\\IRepositorio\\IRptFacturaRepositorio.cs",
-              "ToolTip": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.Datos\\Repositorio\\IRepositorio\\IRptFacturaRepositorio.cs",
-              "RelativeToolTip": "CLNFactPT.Datos\\Repositorio\\IRepositorio\\IRptFacturaRepositorio.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA4AAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T01:27:09.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.Dominio\\Entidades\\Cliente.cs",
               "RelativeDocumentMoniker": "CLNFactPT.Dominio\\Entidades\\Cliente.cs",
@@ -198,25 +96,49 @@
               "RelativeToolTip": "CLNFactPT.Dominio\\Entidades\\Cliente.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T01:23:07.081Z",
+              "WhenOpened": "2024-08-28T01:23:07.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FacturaMasterDetalleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.Datos\\DTOs\\FacturaMasterDetalleDTO.cs",
+              "RelativeDocumentMoniker": "CLNFactPT.Datos\\DTOs\\FacturaMasterDetalleDTO.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.Datos\\DTOs\\FacturaMasterDetalleDTO.cs",
+              "RelativeToolTip": "CLNFactPT.Datos\\DTOs\\FacturaMasterDetalleDTO.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T22:13:54.883Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "RptFacturaDTO.cs",
               "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.Datos\\DTOs\\RptFacturaDTO.cs",
               "RelativeDocumentMoniker": "CLNFactPT.Datos\\DTOs\\RptFacturaDTO.cs",
               "ToolTip": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.Datos\\DTOs\\RptFacturaDTO.cs",
               "RelativeToolTip": "CLNFactPT.Datos\\DTOs\\RptFacturaDTO.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA0AAAASAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwA0AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T01:22:41.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
+              "Title": "IUnidadTrabajo.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.Datos\\Repositorio\\IRepositorio\\IUnidadTrabajo.cs",
+              "RelativeDocumentMoniker": "CLNFactPT.Datos\\Repositorio\\IRepositorio\\IUnidadTrabajo.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.Datos\\Repositorio\\IRepositorio\\IUnidadTrabajo.cs",
+              "RelativeToolTip": "CLNFactPT.Datos\\Repositorio\\IRepositorio\\IUnidadTrabajo.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:45:51.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "FacturaRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.Datos\\Repositorio\\FacturaRepositorio.cs",
               "RelativeDocumentMoniker": "CLNFactPT.Datos\\Repositorio\\FacturaRepositorio.cs",
@@ -224,24 +146,11 @@
               "RelativeToolTip": "CLNFactPT.Datos\\Repositorio\\FacturaRepositorio.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T22:17:26.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T22:17:26.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "FacturaMasterDetalleDTO.cs",
-              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.Datos\\DTOs\\FacturaMasterDetalleDTO.cs",
-              "RelativeDocumentMoniker": "CLNFactPT.Datos\\DTOs\\FacturaMasterDetalleDTO.cs",
-              "ToolTip": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.Datos\\DTOs\\FacturaMasterDetalleDTO.cs",
-              "RelativeToolTip": "CLNFactPT.Datos\\DTOs\\FacturaMasterDetalleDTO.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAAAoAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T22:13:54.883Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 8,
               "Title": "FacturaDetalleDTO.cs",
               "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.Datos\\DTOs\\FacturaDetalleDTO.cs",
               "RelativeDocumentMoniker": "CLNFactPT.Datos\\DTOs\\FacturaDetalleDTO.cs",
@@ -253,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "IFacturaRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.Datos\\Repositorio\\IRepositorio\\IFacturaRepositorio.cs",
               "RelativeDocumentMoniker": "CLNFactPT.Datos\\Repositorio\\IRepositorio\\IFacturaRepositorio.cs",
@@ -261,24 +170,11 @@
               "RelativeToolTip": "CLNFactPT.Datos\\Repositorio\\IRepositorio\\IFacturaRepositorio.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAABEAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T22:06:47.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T22:06:47.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Factura.cs",
-              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.Dominio\\Entidades\\Factura.cs",
-              "RelativeDocumentMoniker": "CLNFactPT.Dominio\\Entidades\\Factura.cs",
-              "ToolTip": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.Dominio\\Entidades\\Factura.cs",
-              "RelativeToolTip": "CLNFactPT.Dominio\\Entidades\\Factura.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAAACAAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T22:20:59.895Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 9,
               "Title": "Repositorio.cs",
               "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\CLNFactPT\\CLNFactPT.Datos\\Repositorio\\Repositorio.cs",
               "RelativeDocumentMoniker": "CLNFactPT.Datos\\Repositorio\\Repositorio.cs",

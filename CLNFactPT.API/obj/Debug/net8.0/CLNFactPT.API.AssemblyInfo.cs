@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CLNFactPT.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8dda319d9be8981e03ac65b02573e18d98266e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CLNFactPT.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CLNFactPT.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

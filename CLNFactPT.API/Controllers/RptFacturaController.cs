@@ -46,7 +46,7 @@ namespace CLNFactPT.API.Controllers
         }
 
         [HttpGet("BuscarPorMes/{mes}")]
-        public async Task<IActionResult> ObtenerPorMes(int mes)
+        public async Task<IActionResult> ObtenerPorMes(string mes)
         {
             var reporte = _unidadTrabajo.RptFacturaRepositorio.ObtenerReporteFacturas()
                                          .Where(f => f.Mes == mes)

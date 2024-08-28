@@ -25,10 +25,23 @@ namespace CLNFactPT.API.Controllers
         public async Task<IActionResult> Lista()
         {
             var lista = await _unidadTrabajo.Factura.ObtenerTodos();
-            return StatusCode(StatusCodes.Status200OK, new { value = lista });
+
+            var listaFacturasDto = lista.Select(f => new FacturaBDTO
+            {
+                Id = f.Id,
+                NumeroFactura = f.NumeroFactura,
+                Fecha = f.Fecha,
+                ClienteId = f.ClienteId,
+                MonedaId = f.MonedaId,
+                Subtotal = f.Subtotal,
+                IVA = f.IVA,
+                Total = f.Total
+            });
+
+            return StatusCode(StatusCodes.Status200OK, new { value = listaFacturasDto });
         }
 
-      
+
 
         [HttpGet("BuscarPorCliente/{clienteId}")]
         public async Task<IActionResult> ObtenerPorCliente(int clienteId)
@@ -40,7 +53,19 @@ namespace CLNFactPT.API.Controllers
                 return BadRequest(new { success = false, message = "El cliente no tiene facturas" });
             }
 
-            return Ok(new { success = true, facturas });
+            var listaFacturasDto = facturas.Select(f => new FacturaBDTO
+            {
+                Id = f.Id,
+                NumeroFactura = f.NumeroFactura,
+                Fecha = f.Fecha,
+                ClienteId = f.ClienteId,
+                MonedaId = f.MonedaId,
+                Subtotal = f.Subtotal,
+                IVA = f.IVA,
+                Total = f.Total
+            });
+
+            return Ok(new { success = true, listaFacturasDto });
         }
 
         [HttpGet("BuscarPorFactura/{numFactura}")]
@@ -53,7 +78,19 @@ namespace CLNFactPT.API.Controllers
                 return BadRequest(new { success = false, message = "Factura no encontrada" });
             }
 
-            return Ok(new { success = true, factura });
+            var facturaDto = new FacturaBDTO
+            {
+                Id = factura.Id,
+                NumeroFactura = factura.NumeroFactura,
+                Fecha = factura.Fecha,
+                ClienteId = factura.ClienteId,
+                MonedaId = factura.MonedaId,
+                Subtotal = factura.Subtotal,
+                IVA = factura.IVA,
+                Total = factura.Total
+            };
+
+            return Ok(new { success = true, facturaDto });
         }
 
         [HttpPost]

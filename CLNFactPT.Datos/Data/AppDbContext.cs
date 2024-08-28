@@ -22,6 +22,12 @@ namespace CLNFactPT.Datos.Data
             base.OnModelCreating(builder);
             builder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
 
+            builder.Entity<Factura>()
+            .HasMany(fm => fm.FacturaDetalles)
+            .WithOne(fd => fd.Factura)
+            .HasForeignKey(fd => fd.FacturaId)
+            .OnDelete(DeleteBehavior.Cascade);
+
             builder.Entity<TasaCambio>()
            .Property(f => f.TasaDeCambio)
            .HasColumnType("decimal(18, 2)");

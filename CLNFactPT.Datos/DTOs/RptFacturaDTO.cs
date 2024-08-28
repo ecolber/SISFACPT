@@ -11,7 +11,7 @@ namespace CLNFactPT.Datos.DTOs
         public string CodigoCliente { get; set; }
         public string Nombre { get; set; }
         public int Anio { get; set; }
-        public int Mes { get; set; }
+        public string Mes { get; set; }
         public decimal TotalDolar { get; set; }
         public decimal TotalCordobas { get; set; }
         public string Producto { get; set; }

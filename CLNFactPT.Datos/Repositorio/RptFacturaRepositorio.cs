@@ -5,6 +5,7 @@ using CLNFactPT.Dominio.Entidades;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
@@ -40,8 +41,8 @@ namespace CLNFactPT.Datos.Repositorio
                           select new RptFacturaDTO
                           {
                               CodigoCliente = g.Key.Codigo,
-                              Nombre = g.Key.Nombre + ' ' + g.Key.Apellido,                              
-                              Mes = g.Key.Mes,
+                              Nombre = g.Key.Nombre + ' ' + g.Key.Apellido,
+                              Mes = new DateTime(1, g.Key.Mes, 1).ToString("MMMM", new CultureInfo("es-ES")),
                               Anio = g.Key.Anio,
                               TotalDolar = g.Sum(x => x.factura.MonedaId == 1 ? (x.detalle.PrecioUnitario * x.detalle.Cantidad) : 0) * 1.15m,
                               TotalCordobas = g.Sum(x => x.factura.MonedaId == 2 ? x.detalle.PrecioUnitario * x.detalle.Cantidad : 0) * 1.15m,

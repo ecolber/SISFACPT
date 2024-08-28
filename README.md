@@ -1,14 +1,10 @@
 La API fue creada con el enfoque CodeFirst por lo cual hay que realizar las migraciones
-1- 
-Crear la base de datos en SQL Server
-2-
-Cambiar la cadena de conexion en el archivo appsettings.json
+1- Crear la base de datos en SQL Server
+2-Cambiar la cadena de conexion en el archivo appsettings.json
 
 Realizar las migraciones con los siguientes comandos
-3-
-Add-Migration Inicial -Project CLNFactPT.Datos -StartupProject CLNFactPT.API
-4-
-Update-Database -Project CLNFactPT.Datos -StartupProject CLNFactPT.API
+3- Add-Migration Inicial -Project CLNFactPT.Datos -StartupProject CLNFactPT.API
+4- Update-Database -Project CLNFactPT.Datos -StartupProject CLNFactPT.API
 
 Consideraciones
 - no existe una tabla catalogo moneda pero en el campo monedaId en la facturacion usar 1 para dolar y 2 para cordobas
